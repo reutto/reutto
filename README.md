@@ -1,5 +1,5 @@
-## Hi there 👋 i`m learning frontend
-##   developer:
+# Hi there 👋 i`m learning frontend
+#   developer:
 ### html & css
-## learning ( slowly )
+# learning ( slowly ):
 ### javascripts & php
