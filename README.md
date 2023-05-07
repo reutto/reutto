@@ -1,3 +1,3 @@
 # Hi there 👋 i`m learning frontend
-I am a it specialis and begginer developer from poland.  Working on multiple frontend projects.
+I am a IT specialis and junior frontend developer from poland.  Working on multiple frontend projects.
 
