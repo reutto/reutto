@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/pierokchad" />
 </p>
-<h3 align="center">Current Known Languages:</h3>
+<h3 align="center">Current Known/learning Languages:</h3>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
