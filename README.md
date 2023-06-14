@@ -5,15 +5,11 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://gpvc.arturio.dev/reutto" />
-</p>
 <h3 align="center">Current Known/learning Languages:</h3>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bootsrap/bootsrap.png"></code>
 </p>
 
 <p align="center">
