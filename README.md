@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://gpvc.arturio.dev/pierokchad" />
+  <img src="https://gpvc.arturio.dev/reutto" />
 </p>
 <h3 align="center">Current Known/learning Languages:</h3>
 <p align="center">
