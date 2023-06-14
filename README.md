@@ -1,18 +1,24 @@
-# 💫 About Me:
-Working for CorpusMC.pl
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reutto&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=reutto&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reutto&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">p i e r o k#7967</h1>
+<p align="center">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=reutto&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://gpvc.arturio.dev/pierokchad" />
+</p>
+<h3 align="center">Current Known Languages:</h3>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/boostrap/boostrap.png"></code>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=pierokchad&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
 
 
 
